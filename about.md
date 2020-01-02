@@ -4,11 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Sports, trips, diet, setting up our own blog?
 
-### More Information
+We have good pictures, we want to share them, we don't like social media so here we are! 
 
-A place to include any other types of information that you'd like to include about yourself.
+### Serioursly, what's the point of this blog?
+
+Over the past years, we have found many tricks to travel cheaper, eat healthier and squeeze our time.
+We have been disappointed with many things so we are just writing to bring awareness of what's good in life (from our perspective). Also, this is good way to keep track of our lives! 
 
 ### Contact me
 
