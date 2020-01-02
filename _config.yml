@@ -6,7 +6,7 @@
 name: Wendy Lu Chen
 
 # Short bio or description (displayed in the header)
-description: Imperial College London graduate in MEng Electrical and Electronics Engineer
+description: Imperial College London graduate 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -21,9 +21,9 @@ footer-links:
   email: wendyluchen@outlook.com
   facebook:
   flickr:
-  github: wl4715
+  github: wl4715/wl4715.github.io
   instagram: wensslu
-  linkedin: Wendy Lu Chen
+  linkedin: 
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
